@@ -1,1 +1,2 @@
 .env\n*.pyc\n__pycache__/\ndata/proprietary/\n*.ckpt
+gpu_states/
